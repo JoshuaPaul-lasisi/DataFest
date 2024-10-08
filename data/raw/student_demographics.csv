@@ -1,8 +1,8 @@
 Student_ID,Full_Name,Gender,Date_of_Birth,Age,Region_State,Urban_or_Rural,Language_Proficiency,class,Attendance_Consistency
-S1,Abdul Danladi,Female,10/07/2000,18,Abuja,Rural,TRUE,SS3,Irregular
-S2,Chinedu Idowu,Female,27/04/2001,17,Ekiti,Rural,TRUE,SS3,Regular
-S3,Chinedu Idowu,Male,03/06/2002,15,Kaduna,Rural,TRUE,SS2,Irregular
-S4,Ngozi Ahmed,Male,19/04/2003,18,Kaduna,Urban,TRUE,SS3,Irregular
+S1,Aminat Danladi,Female,10/07/2000,18,Abuja,Rural,TRUE,SS3,Irregular
+S2,Chinelo Eze,Female,27/04/2001,17,Ekiti,Rural,TRUE,SS3,Regular
+S3,Chinedu Igwe,Male,03/06/2002,15,Kaduna,Rural,TRUE,SS2,Irregular
+S4,Amiru Ahmed,Male,19/04/2003,18,Kaduna,Urban,TRUE,SS3,Irregular
 S5,Tunde Ibrahim,Male,09/03/2004,17,Borno,Rural,FALSE,SS3,Irregular
 S6,Efe Idowu,Female,23/02/2005,15,Kano,Urban,FALSE,SS1,Irregular
 S7,Chinedu Adewale,Male,02/05/2006,16,Lagos,Urban,TRUE,SS2,Irregular
