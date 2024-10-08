@@ -1,0 +1,51 @@
+Student_ID,Full_Name,Gender,Date_of_Birth,Age,Region_State,Urban_or_Rural,Language_Proficiency,class,Attendance_Consistency
+S1,Abdul Danladi,Female,10/07/2000,18,Abuja,Rural,TRUE,SS3,Irregular
+S2,Chinedu Idowu,Female,27/04/2001,17,Ekiti,Rural,TRUE,SS3,Regular
+S3,Chinedu Idowu,Male,03/06/2002,15,Kaduna,Rural,TRUE,SS2,Irregular
+S4,Ngozi Ahmed,Male,19/04/2003,18,Kaduna,Urban,TRUE,SS3,Irregular
+S5,Tunde Ibrahim,Male,09/03/2004,17,Borno,Rural,FALSE,SS3,Irregular
+S6,Efe Idowu,Female,23/02/2005,15,Kano,Urban,FALSE,SS1,Irregular
+S7,Chinedu Adewale,Male,02/05/2006,16,Lagos,Urban,TRUE,SS2,Irregular
+S8,Efe Ibrahim,Male,01/01/2007,18,Kaduna,Urban,TRUE,SS3,Irregular
+S9,Grace Ogunleye,Female,05/02/2008,17,Lagos,Rural,TRUE,SS2,Irregular
+S10,Tunde Adewale,Male,26/01/2009,15,Rivers,Rural,TRUE,SS2,Regular
+S11,Aisha Yusuf,Female,10/07/2000,18,Yobe,Urban,TRUE,SS3,Irregular
+S12,Chinedu Ahmed,Male,27/04/2001,18,Yobe,Urban,TRUE,SS3,Irregular
+S13,Fatima Ogunleye,Female,03/06/2002,17,Rivers,Urban,TRUE,SS2,Regular
+S14,Grace Ibrahim,Male,19/04/2003,15,Borno,Rural,FALSE,SS2,Regular
+S15,Emeka Chukwuma,Male,09/03/2004,15,Lagos,Urban,TRUE,SS2,Regular
+S16,Fatima Ogunleye,Female,23/02/2005,16,Abuja,Rural,FALSE,SS2,Regular
+S17,Aisha Ibrahim,Female,02/05/2006,15,Lagos,Urban,FALSE,SS2,Irregular
+S18,Femi Idowu,Male,01/01/2007,18,Kano,Urban,FALSE,SS3,Irregular
+S19,Grace Yusuf,Male,05/02/2008,17,Rivers,Rural,TRUE,SS3,Irregular
+S20,Emeka Ahmed,Female,26/01/2009,16,Rivers,Urban,FALSE,SS3,Irregular
+S21,Abdul Ogunleye,Male,10/07/2000,16,Abuja,Urban,TRUE,SS3,Irregular
+S22,Aisha Danladi,Male,27/04/2001,15,Kano,Rural,FALSE,SS2,Regular
+S23,Tunde Chukwuma,Female,03/06/2002,16,Kaduna,Rural,TRUE,SS3,Irregular
+S24,Chinedu Ahmed,Female,19/04/2003,15,Rivers,Rural,TRUE,SS2,Irregular
+S25,Efe Ahmed,Female,09/03/2004,17,Delta,Urban,FALSE,SS3,Irregular
+S26,Chinedu Idowu,Male,23/02/2005,17,Ogun,Urban,FALSE,SS3,Regular
+S27,Ngozi Ahmed,Male,02/05/2006,16,Kaduna,Urban,TRUE,SS2,Irregular
+S28,Fatima Adewale,Female,01/01/2007,17,Rivers,Rural,FALSE,SS3,Regular
+S29,Ngozi Ogunleye,Male,05/02/2008,15,Borno,Rural,FALSE,SS1,Irregular
+S30,Efe Idowu,Male,26/01/2009,16,Rivers,Urban,FALSE,SS3,Regular
+S31,isehunwa pius taiwo,Male,10/07/2000,16,Abuja,Rural,TRUE,SS3,Irregular
+S32,micheal olorusaiye,Male,27/04/2001,16,Ekiti,Rural,TRUE,SS2,Regular
+S33,John Esther,Female,03/06/2002,16,Kaduna,Rural,TRUE,SS3,Irregular
+S34,mathew olorunsaiye,Male,19/04/2003,16,Kaduna,Urban,TRUE,SS3,Irregular
+S35,moses joyce,Female,09/03/2004,16,Borno,Rural,FALSE,SS1,Irregular
+S36,anthony megida,Female,23/02/2005,16,Kano,Urban,FALSE,SS2,Irregular
+S37,umar hannah joy,Female,02/05/2006,16,Lagos,Urban,TRUE,SS3,Irregular
+S38,samuel stephen ige,Male,01/01/2007,16,Kaduna,Urban,TRUE,SS2,Irregular
+S39,arokoyo ojo emmanuel ,Male,05/02/2008,16,Lagos,Rural,TRUE,SS2,Irregular
+S40,omotosho .m. kayode,Male,26/01/2009,16,Rivers,Rural,TRUE,SS3,Regular
+S41,Ojo joy,Female,10/07/2000,16,Yobe,Urban,TRUE,SS3,Irregular
+S42,olorungbemi amos adekunle,Male,27/04/2001,15,Yobe,Urban,TRUE,SS2,Irregular
+S43,omotosho seun omonale,Female,03/06/2002,15,Rivers,Urban,TRUE,SS2,Regular
+S44,francis o. omotosho,Male,19/04/2003,15,Borno,Rural,FALSE,SS2,Regular
+S45,okuta emmanuel kayode,Male,09/03/2004,15,Lagos,Urban,TRUE,SS2,Regular
+S46,eniolorunda susan mulikat ,Male,23/02/2005,15,Abuja,Rural,FALSE,SS2,Regular
+S47,toluhi sayo,Female,02/05/2006,15,Lagos,Urban,FALSE,SS3,Irregular
+S48,francis s emmanuel,Male,01/01/2007,15,Kano,Urban,FALSE,SS3,Irregular
+S49,ahmed eniolorunda,Male,05/02/2008,15,Rivers,Rural,TRUE,SS3,Irregular
+S50,isehunwa j. sunday,Male,26/01/2009,15,Rivers,Urban,FALSE,SS3,Irregular

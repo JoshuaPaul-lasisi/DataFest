@@ -1,0 +1,51 @@
+Parent_ID,Student_ID,Parents_Education_Level,Father_Occupation,Mother_Occupation,Monthly_Income,Parental_Support
+P1,S1,None,Farmer,Civil Servant,95364,High
+P2,S2,University,Farmer,Trader,150165,Moderate
+P3,S3,Secondary,Farmer,Housewife,196438,Moderate
+P4,S4,University,Trader,Teacher,70150,Low
+P5,S5,University,Farmer,Civil Servant,85697,High
+P6,S6,Secondary,Engineer,Civil Servant,169354,Low
+P7,S7,University,Farmer,Civil Servant,181041,High
+P8,S8,Primary,Civil Servant,Trader,135380,Moderate
+P9,S9,None,Trader,Teacher,64788,High
+P10,S10,University,Farmer,Housewife,82056,Low
+P11,S11,University,Trader,Teacher,134332,Low
+P12,S12,University,Farmer,Trader,106212,High
+P13,S13,None,Trader,Teacher,80375,Moderate
+P14,S14,University,Civil Servant,Civil Servant,40450,Low
+P15,S15,University,Farmer,Trader,86191,High
+P16,S16,Secondary,Trader,Teacher,61672,Low
+P17,S17,Secondary,Engineer,Housewife,49288,Low
+P18,S18,Primary,Civil Servant,Teacher,139351,High
+P19,S19,Primary,Engineer,Teacher,165838,Low
+P20,S20,Primary,Civil Servant,Teacher,81366,High
+P21,S21,None,Farmer,Teacher,141976,Low
+P22,S22,None,Engineer,Civil Servant,152978,High
+P23,S23,University,Engineer,Housewife,93237,Low
+P24,S24,None,Civil Servant,Civil Servant,186861,Moderate
+P25,S25,None,Farmer,Housewife,104636,High
+P26,S26,Secondary,Civil Servant,Teacher,174404,Low
+P27,S27,Secondary,Farmer,Teacher,142602,High
+P28,S28,None,Trader,Housewife,130025,High
+P29,S29,University,Civil Servant,Trader,78894,High
+P30,S30,None,Trader,Teacher,111018,Moderate
+P31,S31,None,Farmer,Civil Servant,118746,High
+P32,S32,University,Farmer,Trader,118897,Moderate
+P33,S33,Secondary,Farmer,Housewife,119048,Moderate
+P34,S34,University,Trader,Teacher,119199,Low
+P35,S35,University,Farmer,Civil Servant,119350,High
+P36,S36,Secondary,Engineer,Civil Servant,119501,Low
+P37,S37,University,Farmer,Civil Servant,119652,High
+P38,S38,Primary,Civil Servant,Trader,119803,Moderate
+P39,S39,None,Trader,Teacher,119954,High
+P40,S40,University,Farmer,Housewife,120105,Low
+P41,S41,University,Trader,Teacher,120256,Low
+P42,S42,University,Farmer,Trader,120407,High
+P43,S43,None,Trader,Teacher,120558,Moderate
+P44,S44,University,Civil Servant,Civil Servant,120709,Low
+P45,S45,University,Farmer,Trader,120860,High
+P46,S46,Secondary,Trader,Teacher,121011,Low
+P47,S47,Secondary,Engineer,Housewife,121162,Low
+P48,S48,Primary,Civil Servant,Teacher,121313,High
+P49,S49,Primary,Engineer,Teacher,121464,Low
+P50,S50,Primary,Civil Servant,Teacher,121615,High

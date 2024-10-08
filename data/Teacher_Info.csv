@@ -1,0 +1,51 @@
+Teacher_ID,Name,Subject_Taught,Years_of_Experience,Qualification,Teacher_Student_Ratio,Student_ID
+T1,Emeka Adewale,Biology,2,BSc,34,S1
+T2,Efe Chukwuma,English,3,NCE,39,S2
+T3,Femi Chukwuma,Mathematics,9,BSc,36,S3
+T4,Tunde Ahmed,Physics,8,BSc,26,S4
+T5,Fatima Danladi,English,5,BSc,16,S5
+T6,Grace Ogunleye,Biology,3,MSc,14,S6
+T7,Aisha Chukwuma,Biology,4,BSc,10,S7
+T8,Abdul Adewale,Biology,9,NCE,25,S8
+T9,Grace Yusuf,Physics,3,BSc,17,S9
+T10,Aisha Ibrahim,English,7,BSc,36,S10
+T11,Abdul Yusuf,English,6,NCE,13,S11
+T12,Aisha Ibrahim,Biology,3,BSc,31,S12
+T13,Aisha Okafor,Mathematics,8,NCE,26,S13
+T14,Fatima Ogunleye,Physics,5,MSc,40,S14
+T15,Ngozi Yusuf,Physics,7,BSc,33,S15
+T16,Fatima Danladi,Biology,9,NCE,16,S16
+T17,Fatima Danladi,Biology,9,BSc,37,S17
+T18,Ngozi Danladi,English,4,BSc,14,S18
+T19,Tunde Ahmed,English,4,BSc,33,S19
+T20,Grace Yusuf,Physics,5,BSc,37,S20
+T21,Ngozi Chukwuma,English,9,NCE,11,S21
+T22,Aisha Ogunleye,English,5,MSc,28,S22
+T23,Femi Adewale,English,2,BSc,26,S23
+T24,Femi Ahmed,Biology,8,BSc,20,S24
+T25,Emeka Okafor,Biology,5,MSc,23,S25
+T26,Aisha Adewale,Physics,9,NCE,29,S26
+T27,Grace Okafor,Biology,8,BSc,31,S27
+T28,Aisha Adewale,Biology,8,BSc,14,S28
+T29,Ngozi Ibrahim,Physics,6,NCE,13,S29
+T30,Tunde Adewale,English,3,NCE,31,S30
+T31,adeniyi femi ajiniyi,Biology,7,BSc,23,S31
+T32,akindele dare,English,2,NCE,23,S32
+T33,eniolorunda kazeem,Mathematics,3,BSc,23,S33
+T34,toluhi olorunmola,Physics,4,BSc,23,S34
+T35,obasiyan busayo racheal,English,4,BSc,23,S35
+T36,lawal folashade grace,Biology,7,MSc,23,S36
+T37,lawal faith oluwatosin,Biology,3,BSc,23,S37
+T38,yusuf remilekun saka,Biology,2,NCE,22,S38
+T39,dauda elizabeth,Physics,7,BSc,22,S39
+T40,stehpen adebola,English,2,BSc,22,S40
+T41,adadu ibrahim likisa,English,2,NCE,22,S41
+T42,alege omotayo abimbola,Biology,2,BSc,22,S42
+T43,ayanda bukola funmilayo,Mathematics,2,NCE,22,S43
+T44,dare niyi,Physics,3,MSc,22,S44
+T45,folorunsho  kikelomo,Physics,4,BSc,21,S45
+T46,olusaiye micheal ,Biology,4,NCE,21,S46
+T47,ajiboge  bosede,Biology,3,BSc,21,S47
+T48,jaiyeola  shade,English,4,BSc,21,S48
+T49,olusaiye rebecca,English,5,BSc,21,S49
+T50,baki  hannah,Physics,6,BSc,21,S50

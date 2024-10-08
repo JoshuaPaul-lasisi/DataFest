@@ -1,0 +1,51 @@
+Student_ID,Date,Status,Reason_for_Absence
+S1,11/04/2021,Present,Family Responsibility
+S2,12/04/2021,Absent,None
+S3,13/04/2021,Present,Family Responsibility
+S4,14/04/2021,Absent,None
+S5,15/04/2021,Absent,None
+S6,16/04/2021,Absent,Illness
+S7,17/04/2021,Present,Illness
+S8,18/04/2021,Absent,Family Responsibility
+S9,19/04/2021,Present,None
+S10,20/04/2021,Present,Family Responsibility
+S11,21/04/2021,Absent,None
+S12,22/04/2021,Absent,None
+S13,23/04/2021,Present,None
+S14,24/04/2021,Present,Family Responsibility
+S15,25/04/2021,Present,Family Responsibility
+S16,26/04/2021,Present,Family Responsibility
+S17,27/04/2021,Present,Financial
+S18,28/04/2021,Absent,Illness
+S19,29/04/2021,Present,Illness
+S20,30/04/2021,Absent,None
+S21,01/05/2021,Present,Illness
+S22,02/05/2021,Present,Financial
+S23,03/05/2021,Absent,Family Responsibility
+S24,04/05/2021,Present,Family Responsibility
+S25,05/05/2021,Absent,Illness
+S26,06/05/2021,Absent,Illness
+S27,07/05/2021,Absent,Family Responsibility
+S28,08/05/2021,Present,Illness
+S29,09/05/2021,Absent,Financial
+S30,10/05/2021,Present,Financial
+S31,11/05/2021,Present,Family Responsibility
+S32,12/05/2021,Absent,None
+S33,13/05/2021,Present,Family Responsibility
+S34,14/05/2021,Absent,None
+S35,15/05/2021,Absent,None
+S36,16/05/2021,Absent,Illness
+S37,17/05/2021,Present,Illness
+S38,18/05/2021,Absent,Family Responsibility
+S39,19/05/2021,Present,None
+S40,20/05/2021,Present,Family Responsibility
+S41,21/05/2021,Absent,None
+S42,22/05/2021,Absent,None
+S43,23/05/2021,Present,None
+S44,24/05/2021,Present,Family Responsibility
+S45,25/05/2021,Present,Family Responsibility
+S46,26/05/2021,Present,Family Responsibility
+S47,27/05/2021,Present,Financial
+S48,28/05/2021,Absent,Illness
+S49,29/05/2021,Present,Illness
+S50,30/05/2021,Absent,None
