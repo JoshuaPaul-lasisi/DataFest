@@ -3,6 +3,10 @@ import pandas as pd
 import pickle
 import os
 
+from merge_data import merge_data
+from preprocessing import preprocess_data
+from model import train_model
+
 def load_model():
     with open('../data/processed/student_performance_model.pkl', 'rb') as f:
         model = pickle.load(f)

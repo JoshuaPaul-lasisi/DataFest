@@ -1,4 +1,3 @@
-# merge_data.py
 import pandas as pd
 
 def load_data():
@@ -12,17 +11,13 @@ def load_data():
     return attendance, extra_cur, parents, performance, resource, students, teachers
 
 def merge_data():
-    attendance, extra_cur, new_performance, parents, performance, resource, students, teachers = load_data()
-    
-    # Combine performance datasets
-    performance_combined = pd.concat([performance, new_performance], ignore_index=True)
-    performance_combined.drop_duplicates(inplace=True)
-    
+    attendance, extra_cur, parents, performance, resource, students, teachers = load_data()
+        
     # Merge all datasets
     data = students.merge(attendance, on='Student_ID', how='left')\
                    .merge(extra_cur, on='Student_ID', how='left')\
                    .merge(parents, on='Student_ID', how='left')\
-                   .merge(performance_combined, on='Student_ID', how='left')\
+                   .merge(performance, on='Student_ID', how='left')\
                    .merge(resource, on='Student_ID', how='left')\
                    .merge(teachers, on='Student_ID', how='left')
     
